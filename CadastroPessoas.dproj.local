@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/28 17:03:00.000.886,=C:\Users\jgabr\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2024/01/28 17:03:36.000.725,C:\Users\jgabr\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Git\CadastroPessoas\view\FPrincipal.dfm</Transaction>
+    <Transaction>2024/01/28 17:03:36.000.725,C:\Users\jgabr\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Git\CadastroPessoas\view\FPrincipal.pas</Transaction>
+    <Transaction>2024/01/28 17:03:51.000.410,C:\Users\jgabr\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Git\CadastroPessoas\CadastroPessoas.dproj</Transaction>
+    <Transaction>2024/01/28 17:04:38.000.117,=C:\Git\CadastroPessoas\model\uPessoaModel.pas</Transaction>
+    <Transaction>2024/01/28 17:04:46.000.256,=C:\Git\CadastroPessoas\dao\uCadastroDao.pas</Transaction>
+    <Transaction>2024/01/28 17:04:46.000.289,=C:\Git\CadastroPessoas\dao\uConexao.pas</Transaction>
+    <Transaction>2024/01/28 17:04:59.000.417,=C:\Git\CadastroPessoas\controller\uCadastroController.pas</Transaction>
+  </Transactions>
+</BorlandProject>
